@@ -1,25 +1,13 @@
-# Portfólio Profissional --- Leonardo Silva
+# Portfólio Profissional — Leonardo Silva
 
-```{=html}
-<p align="center">
-```
-`<strong>`{=html}Website institucional para apresentação profissional na
-área de Engenharia Civil.`</strong>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://portifolioleonardosilva.netlify.app/">`{=html}
-`<img src="https://img.shields.io/badge/WEBSITE-ACESSAR%20PROJETO-B8862E?style=for-the-badge&logo=netlify&logoColor=white" alt="Website">`{=html}
-`</a>`{=html}
-`<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">`{=html}
-`<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">`{=html}
-`<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">`{=html}
-```{=html}
-</p>
-```
+**Website institucional para apresentação profissional na área de
+Engenharia Civil.**
+
+[![Acessar
+website](https://img.shields.io/badge/Website-Acessar%20projeto-B8862E?style=for-the-badge&logo=netlify&logoColor=white)](https://portifolioleonardosilva.netlify.app/)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ------------------------------------------------------------------------
 
@@ -41,55 +29,45 @@ moderna, intuitiva e responsiva.
 [🌐
 portifolioleonardosilva.netlify.app](https://portifolioleonardosilva.netlify.app/)
 
-```{=html}
-<!--
-Para exibir uma captura de tela, salve-a como assets/img/preview.png
-e remova os comentários deste bloco:
-
-<p align="center">
-  <img src="assets/img/preview.png" alt="Prévia do website Leonardo Silva" width="90%">
-</p>
--->
-```
 ## Funcionalidades
 
--   **Página inicial:** apresentação profissional e destaque dos
-    principais serviços.
--   **Sobre:** trajetória, experiência e formação profissional.
--   **Serviços:** apresentação das soluções em Engenharia Diagnóstica e
-    Consultiva.
--   **Métodos:** descrição das metodologias e abordagens de trabalho.
--   **Contato:** formulário interativo para preparação de mensagens por
-    e-mail.
--   **Menu responsivo:** navegação adaptada a dispositivos móveis.
--   **Layout responsivo:** adaptação dos elementos visuais a diferentes
-    tamanhos de tela.
+- **Página inicial:** apresentação profissional e destaque dos
+  principais serviços.
+- **Sobre:** trajetória, experiência e formação profissional.
+- **Serviços:** apresentação das soluções em Engenharia Diagnóstica e
+  Consultiva.
+- **Métodos:** descrição das metodologias e abordagens de trabalho.
+- **Contato:** formulário interativo para preparação de mensagens por
+  e-mail.
+- **Menu responsivo:** navegação adaptada a dispositivos móveis.
+- **Layout responsivo:** adaptação dos elementos visuais a diferentes
+  tamanhos de tela.
 
 ## Tecnologias e ferramentas
 
-  Tecnologia      Aplicação
-  --------------- -----------------------------------------
-  HTML5           Estruturação semântica das páginas
-  CSS3            Estilização e identidade visual
-  JavaScript      Funcionalidades e interatividade
-  CSS Grid        Organização dos layouts
-  Flexbox         Alinhamento e distribuição de elementos
-  Media Queries   Responsividade
-  Google Fonts    Tipografia Manrope e Inter
-  Netlify         Hospedagem e publicação
+| Tecnologia    | Aplicação                               |
+|:--------------|:----------------------------------------|
+| HTML5         | Estruturação semântica das páginas      |
+| CSS3          | Estilização e identidade visual         |
+| JavaScript    | Funcionalidades e interatividade        |
+| CSS Grid      | Organização dos layouts                 |
+| Flexbox       | Alinhamento e distribuição de elementos |
+| Media Queries | Responsividade                          |
+| Google Fonts  | Tipografia Manrope e Inter              |
+| Netlify       | Hospedagem e publicação                 |
 
 ## Identidade visual
 
 A interface utiliza uma paleta de cores inspirada em uma estética
 sofisticada e alinhada ao segmento de engenharia.
 
-  Cor                Código      Aplicação
-  ------------------ ----------- ----------------------
-  Creme              `#F4F0E6`   Fundos principais
-  Creme secundário   `#ECE6D6`   Áreas de destaque
-  Preto              `#1B1810`   Textos e elementos
-  Dourado            `#B8862E`   Detalhes e destaques
-  Dourado claro      `#D9AF5C`   Elementos de ênfase
+| Cor              | Código    | Aplicação            |
+|:-----------------|:----------|:---------------------|
+| Creme            | `#F4F0E6` | Fundos principais    |
+| Creme secundário | `#ECE6D6` | Áreas de destaque    |
+| Preto            | `#1B1810` | Textos e elementos   |
+| Dourado          | `#B8862E` | Detalhes e destaques |
+| Dourado claro    | `#D9AF5C` | Elementos de ênfase  |
 
 ## Implementações técnicas
 
@@ -167,10 +145,4 @@ necessidades e aos objetivos profissionais do cliente.
 
 ------------------------------------------------------------------------
 
-```{=html}
-<p align="center">
-```
-Desenvolvido por `<strong>`{=html}Lucas Mendonça Silva`</strong>`{=html}
-```{=html}
-</p>
-```
+**Desenvolvido por Lucas Mendonça Silva.**
